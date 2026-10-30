@@ -1,0 +1,62 @@
+[
+  {
+    "file": "noto_sans.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/NotoSans%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/OFL.txt",
+    "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+  },
+  {
+    "file": "noto_sans_myanmar.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmyanmar/NotoSansMyanmar%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmyanmar/OFL.txt",
+    "sha256": "7abbbfbe2514105d7ce94937aee3feb2ba89b73a256c8b77b5866bd9b83e32ec"
+  },
+  {
+    "file": "noto_sans_arabic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/NotoSansArabic%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/OFL.txt",
+    "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+  },
+  {
+    "file": "noto_sans_devanagari.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/NotoSansDevanagari%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/OFL.txt",
+    "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+  },
+  {
+    "file": "noto_sans_bengali.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansbengali/NotoSansBengali%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansbengali/OFL.txt",
+    "sha256": "dcd42978094e584a849c84a51450eeac40c8826057d566ea6d4b9627a403a05a"
+  },
+  {
+    "file": "noto_sans_thai.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansthai/NotoSansThai%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansthai/OFL.txt",
+    "sha256": "5a1c559bb539583c8a1fd99d1c5b9491e5e14478c9cd2bd0970d5c3096cc9ef8"
+  },
+  {
+    "file": "noto_sans_khmer.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskhmer/NotoSansKhmer%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskhmer/OFL.txt",
+    "sha256": "f37a8431a0c5d5ed2f81a767417546aca576a81fb7eff9c924d46aecf828f2ca"
+  },
+  {
+    "file": "noto_emoji.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoemoji/NotoEmoji%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoemoji/OFL.txt",
+    "sha256": "de6c18832938afc99caf132b39d6a30a19bac7f2e812e28db2535b4608d27551"
+  },
+  {
+    "file": "noto_sans_symbols.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols2/NotoSansSymbols2-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols2/OFL.txt",
+    "sha256": "7d5fb73b7ca67a6798101741f5d280a3d016a56a197afcd4199dbb57b4b82a21"
+  },
+  {
+    "file": "noto_sans_cjk.otf",
+    "source": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Regular.otf",
+    "license": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/LICENSE",
+    "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+  }
+]
